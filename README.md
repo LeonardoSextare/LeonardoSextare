@@ -1,5 +1,5 @@
 ## 👋🏻 Olá, me chamo Leonardo Sextare!
-🎓 Analise e Desenvolvimento de Sistemas - FATEC
+🎓 Analise e Desenvolvimento de Sistemas - FATEC </br>
 📧 leonardosextare@gmail.com
 
 <div>
