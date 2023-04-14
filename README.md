@@ -1,4 +1,4 @@
-##👋🏻 Olá, me chamo Leonardo Sextare!
+## 👋🏻 Olá, me chamo Leonardo Sextare!
 🎓 Analise e Desenvolvimento de Sistemas - FATEC 
 
 <div>
