@@ -1,8 +1,8 @@
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSextare&show_icons=true&theme=github_dark_dimmed)
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSextare&show_icons=true&theme=github_dark_dimmed"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSextare&layout=compact&theme=github_dark_dimmed)](https://github.com/LeonardoSextare/github-readme-stats)
-</div>
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
