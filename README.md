@@ -1,5 +1,5 @@
-## 👋🏻 Olá, me chamo Leonardo Sextare!
 🎓 Analise e Desenvolvimento de Sistemas - FATEC </br>
+💼 Assistente em Infraestrutura - Precisão Sistemas </br>
 📧 Contato: leonardosextare@gmail.com
 
 <div>
@@ -9,6 +9,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+          
+          
 </div>
 
 ##
