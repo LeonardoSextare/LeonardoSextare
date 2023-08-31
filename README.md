@@ -1,4 +1,4 @@
-🎓 Analise e Desenvolvimento de Sistemas - FATEC </br>
+🎓 Análise e Desenvolvimento de Sistemas - FATEC </br>
 💼 Assistente em Infraestrutura - Precisão Sistemas </br>
 📧 Contato: leonardosextare@gmail.com
 
