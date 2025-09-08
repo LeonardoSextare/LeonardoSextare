@@ -4,10 +4,6 @@
 💼 Analista de Qualidade - Precisão Sistemas  
 📧 [leonardosextare@gmail.com](mailto:leonardosextare@gmail.com)
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSextare&layout=compact&theme=github_dark_dimmed&hide=html"/>
-</div>
-
 ## Tecnologias e Ferramentas
 
 <div align="left">
